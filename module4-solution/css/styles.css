@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+/* big scrolling section */
+
+.menu-section{
+    background-color:#f2f2f2;
+    margin-top:30px;
+    padding:20px;
+    height:1000px;
+}
+
+/* mobile dropdown menu */
+
+.navbar-nav{
+    background-color:#e6e6e6;
+}
+
+/* menu item borders */
+
+.navbar-nav li{
+    border-bottom:1px solid #ccc;
+}
+
+/* spacing */
+
+h1{
+    margin-bottom:30px;
+}
